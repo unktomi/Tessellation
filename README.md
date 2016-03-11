@@ -1,7 +1,7 @@
 # Tessellation
 UE-4 Tessellation Plugin
 
-Tesselates and/or extrudes 2D polygons to a 3D mesh. Provides a class <code>FOutline</code> with the following functions:
+Tessellates and/or extrudes 2D polygons to a 3D mesh. Provides a class <code>FOutline</code> with the following functions:
 
     void MoveTo(int32 X, int32 Y)
   
